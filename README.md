@@ -1,8 +1,8 @@
 # NieRReinPlayingCards
 ### A Playing Card Deck inspired by NieR Re[in]carnation . Thank you for p[r]aying 
 
-## Examples
-<img src="" width="400"/>
+## Preview
+(https://www.youtube.com/watch?v=jHDOL59tARY)
 
 ## Installation
 
